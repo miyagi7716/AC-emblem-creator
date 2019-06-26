@@ -6,7 +6,6 @@ Designed to work with the PPSSPP emulator.
    * Armored Core 3 (PSP)
    * Armored Core: Silent Line (PSP)
    * Armored Core: Last Raven (PSP)
-   * Armored Core: Formula Front (PSP)
 
 Download and unzip the "Working Directory.zip" file to get started immediately (everything is ready to go).
 The application will guide you through the process.<br /><br />
