@@ -9,5 +9,5 @@ Designed to work with the PPSSPP emulator.
    * Armored Core: Formula Front (PSP)
 
 Download and unzip the "Working Directory.zip" file to get started immediately (everything is ready to go).
-The application will guide you through the process.
+The application will guide you through the process.<br /><br />
 Source code is available in the "Source Code.zip" file for those who are interested.
