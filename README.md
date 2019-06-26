@@ -2,7 +2,7 @@
 This little application will convert standard image files (BMP's and PNG's) into emblem "folders", whose content you can then import from within the Armored Core game (PSP). Transparency is supported.
 
 Designed to work with the PPSSPP emulator.
-Supported games:
+\nSupported games:
    * Armored Core 3 (PSP)
    * Armored Core: Silent Line (PSP)
    * Armored Core: Last Raven (PSP)
