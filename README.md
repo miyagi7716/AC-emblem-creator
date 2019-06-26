@@ -1,4 +1,4 @@
-# AC-emblem-creator
+# AC Image to Emblem Converter
 This little application will convert standard image files (BMP's and PNG's) into emblem "folders", whose content you can then import from within the Armored Core game (PSP). Transparency is supported.
 
 Designed to work with the PPSSPP emulator.
